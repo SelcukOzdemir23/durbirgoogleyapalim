@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Logo: React.FC = () => {
-  const logoText = "Dur Bi' Google'layayım";
+  const logoText = "Dur Bi' Google Yapalım";
   const colors = ['#4285F4', '#DB4437', '#F4B400', '#4285F4', '#0F9D58', '#DB4437'];
   
   const coloredChars = logoText.split(' ').map((word, wordIndex) => (
