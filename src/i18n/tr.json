@@ -1,0 +1,21 @@
+{
+  "title": "Bunu senin için Google'layalım.",
+  "subtitle": "Önce arama kutusuna yazıyoruz...",
+  "placeholder": "Merak edilen o 'çok zor' soru...",
+  "button_create_link": "Bağlantı Oluştur",
+  "button_copy": "Kopyala",
+  "button_skip": "Atla",
+  "button_open_google": "Google'da Aç",
+  "warning_empty_query": "Önce bir arama metni yazınız.",
+  "warning_query_too_long": "Sorgu çok uzun.",
+  "redirecting_message": "Ve işte sonuçlar...",
+  "settings_language": "Dil",
+  "settings_tone": "Ton",
+  "settings_delay": "Gecikme (ms)",
+  "settings_engine": "Motor",
+  "tone_polite": "Kibar",
+  "tone_classic": "Klasik",
+  "language_tr": "Türkçe",
+  "language_en": "İngilizce",
+  "engine_google": "Google"
+}

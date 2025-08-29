@@ -1,0 +1,21 @@
+{
+  "title": "Let me Google that for you.",
+  "subtitle": "First, we type in the search box...",
+  "placeholder": "That 'very difficult' question you're curious about...",
+  "button_create_link": "Create Link",
+  "button_copy": "Copy",
+  "button_skip": "Skip",
+  "button_open_google": "Open in Google",
+  "warning_empty_query": "Please enter a search query first.",
+  "warning_query_too_long": "Query is too long.",
+  "redirecting_message": "And here are the results...",
+  "settings_language": "Language",
+  "settings_tone": "Tone",
+  "settings_delay": "Delay (ms)",
+  "settings_engine": "Engine",
+  "tone_polite": "Polite",
+  "tone_classic": "Classic",
+  "language_tr": "Turkish",
+  "language_en": "English",
+  "engine_google": "Google"
+}
